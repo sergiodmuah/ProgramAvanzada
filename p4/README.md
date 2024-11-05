@@ -1,4 +1,4 @@
-Redame p3-Preguntas a las LLM
+Redame P4-Preguntas a las LLM
 
 La LLM que he utilizado para apoyarme durante la realización de la práctica ha sido ChatGPT.Las preguntas realizadas se las he
 divido en preguntas teoricas y en preguntas de modificación y generación de código.
